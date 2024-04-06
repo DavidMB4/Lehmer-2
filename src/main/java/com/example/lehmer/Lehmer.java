@@ -11,6 +11,7 @@ public class Lehmer {
     private Scanner scanner;
     public Lehmer(){
 
+
     }
     private long Xo;
     @FXML private TextField XoText;

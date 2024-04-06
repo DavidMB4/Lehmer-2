@@ -9,6 +9,7 @@ public class Numero {
     private long Extrac;
     private long ZCol;
 
+
     public Numero(int iteracion, double pseudoNumero, long YCol, long Extrac, long ZCol) {
         this.iteracion = iteracion;
         this.pseudoNumero = pseudoNumero;
